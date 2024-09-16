@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "2.4.0"  # Specify the Jekyll version (you can adjust based on your requirements)
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem "github-pages", group: :jekyll_plugins # For GitHub Pages compatibility (optional)
 gem "jekyll-sitemap"  # If you want to include additional plugins
 gem "agency-jekyll-theme"
-# Add any additional plugins or themes as needed
+gem "webrick" # If you're using Ruby 3.x
