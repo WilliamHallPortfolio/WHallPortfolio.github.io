@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Home Price Prediction 
+subtitle: Housing Price Prediction using Regression Techniques
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2024-09-18
+img: https://camo.githubusercontent.com/f2f629a61574284a092c26a1426364516fb250c78202484a1bb5ef1cfe487607/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313237363930313730392f70686f746f2f62656175746966756c2d6e65772d686f6d652d6e6561722d6368696361676f2e6a70673f733d3631327836313226773d30266b3d323026633d6641323865585557585647412d4c3875334f42584c616e7238553935787a31584131386b4d6a65784b2d413d
+thumbnail: https://camo.githubusercontent.com/f2f629a61574284a092c26a1426364516fb250c78202484a1bb5ef1cfe487607/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313237363930313730392f70686f746f2f62656175746966756c2d6e65772d686f6d652d6e6561722d6368696361676f2e6a70673f733d3631327836313226773d30266b3d323026633d6641323865585557585647412d4c3875334f42584c616e7238553935787a31584131386b4d6a65784b2d413d
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: Sept 2024
+Read Me: https://github.com/WilliamHallPortfolio/01-Home_Price_Prediction/blob/main/README_Home_Prediction.md
+category: Regression
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
