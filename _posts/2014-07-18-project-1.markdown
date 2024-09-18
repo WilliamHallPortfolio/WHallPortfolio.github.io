@@ -8,7 +8,7 @@ img: Home.png
 thumbnail: Home.png
 alt: image-alt
 project-date: Sept 2024
-Read Me: https://github.com/WilliamHallPortfolio/01-Home_Price_Prediction/blob/main/README_Home_Prediction.md
+ReadMe: https://github.com/WilliamHallPortfolio/01-Home_Price_Prediction/blob/main/README_Home_Prediction.md
 category: Regression
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
